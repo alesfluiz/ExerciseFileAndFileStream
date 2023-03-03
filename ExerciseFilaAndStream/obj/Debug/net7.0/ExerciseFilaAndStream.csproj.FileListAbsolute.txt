@@ -1,0 +1,15 @@
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\obj\Debug\net7.0\ExerciseFilaAndStream.csproj.AssemblyReference.cache
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\obj\Debug\net7.0\ExerciseFilaAndStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\obj\Debug\net7.0\ExerciseFilaAndStream.AssemblyInfoInputs.cache
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\obj\Debug\net7.0\ExerciseFilaAndStream.AssemblyInfo.cs
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\obj\Debug\net7.0\ExerciseFilaAndStream.csproj.CoreCompileInputs.cache
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\bin\Debug\net7.0\ExerciseFilaAndStream.exe
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\bin\Debug\net7.0\ExerciseFilaAndStream.deps.json
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\bin\Debug\net7.0\ExerciseFilaAndStream.runtimeconfig.json
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\bin\Debug\net7.0\ExerciseFilaAndStream.dll
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\bin\Debug\net7.0\ExerciseFilaAndStream.pdb
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\obj\Debug\net7.0\ExerciseFilaAndStream.dll
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\obj\Debug\net7.0\refint\ExerciseFilaAndStream.dll
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\obj\Debug\net7.0\ExerciseFilaAndStream.pdb
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\obj\Debug\net7.0\ExerciseFilaAndStream.genruntimeconfig.cache
+C:\Users\alesf\PROJETOS\ExerciseFilaAndStream\ExerciseFilaAndStream\obj\Debug\net7.0\ref\ExerciseFilaAndStream.dll
